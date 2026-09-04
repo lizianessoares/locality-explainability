@@ -13,8 +13,12 @@ Accepted at the 4th World Conference on Explainable Artificial Intelligence (XAI
 ## Citation
 ```
 @inproceedings{Soares2026,
-  author    = {Soares, L. S. and Lopes, B. G. and Almeida, J. M.},
-  title     = {Are All Instances Equally Explainable? A Study on the Impact of Locality...},
+  author    = {Soares, Liziane Santos and
+               Lopes, Bárbara Gabrielle and
+               Almeida, Jussara M. and
+               Prates, Raquel Oliveira and
+               Gonçalves, Marcos André},
+  title     = {Are All Instances Equally Explainable? A Study on the Impact of Locality on the Explainability of Automatic Text Classification Tasks},
   booktitle = {Proceedings of the 4th World Conference on Explainable Artificial Intelligence},
   year      = {2026},
   note      = {Accepted for publication}
