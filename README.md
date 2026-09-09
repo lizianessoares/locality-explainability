@@ -6,22 +6,25 @@ Accepted at the 4th World Conference on Explainable Artificial Intelligence (XAI
 
 
 ## Paper
-**Note:** The full paper will be available after the conference proceedings are published.
+[Camera-ready manuscript](soaresl_xai2026_camera_ready.pdf)
 
+This is the author-prepared camera-ready version accepted at the 4th World Conference on Explainable Artificial Intelligence (XAI 2026). It is provided prior to Springer copy-editing and typesetting and is not the final Version of Record.
+
+The official version and DOI will be published together with the proceedings by Springer.
 
 
 ## Citation
 ```
 @inproceedings{Soares2026,
-  author    = {Soares, Liziane Santos and
-               Lopes, Bárbara Gabrielle and
-               Almeida, Jussara M. and
-               Prates, Raquel Oliveira and
-               Gonçalves, Marcos André},
-  title     = {Are All Instances Equally Explainable? A Study on the Impact of Locality on the Explainability of Automatic Text Classification Tasks},
-  booktitle = {Proceedings of the 4th World Conference on Explainable Artificial Intelligence},
-  year      = {2026},
-  note      = {Accepted for publication}
+  author       = {Soares, Liziane Santos and
+                  Lopes, Bárbara Gabrielle and
+                  Almeida, Jussara M. and
+                  Prates, Raquel Oliveira and
+                  Gonçalves, Marcos André},
+  title        = {Are All Instances Equally Explainable? A Study on the Impact of Locality on the Explainability of Automatic Text Classification Tasks},
+  booktitle    = {World Conference on Explainable Artificial Intelligence},
+  year         = {2026},
+  organization = {Springer}
 }
 ```
 
