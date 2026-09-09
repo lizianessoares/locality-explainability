@@ -6,7 +6,7 @@ Accepted at the 4th World Conference on Explainable Artificial Intelligence (XAI
 
 
 ## Paper
-[Camera-ready manuscript](soaresl_xai2026_camera_ready.pdf)
+📄 [Camera-ready manuscript](soaresl_xai2026_camera_ready.pdf)
 
 This is the author-prepared camera-ready version accepted at the 4th World Conference on Explainable Artificial Intelligence (XAI 2026). It is provided prior to Springer copy-editing and typesetting and is not the final Version of Record.
 
